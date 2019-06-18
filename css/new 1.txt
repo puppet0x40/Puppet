@@ -1,0 +1,19 @@
+
+a b d c e
+127 ⌂
+186 ║
+7 •
+
+
+
+if(comando == 2){
+
+        cout << "\n\n\n\n\n\n\n\n\t!!!!!!!!!!!!!!!!!!!!!!!!!\n\t!\t\t\t!\n";
+        cout << "\t!   AUTOR: PUPPET0X40   !\n";
+        cout << "\t!   DATA: 15/06/2019    !\n";
+        cout << "\t!   COMANDO EXTRA: 99   !\n\t!\t\t\t!\n";
+        cout << "\t!!!!!!!!!!!!!!!!!!!!!!!!!\n";
+        getchar();
+        getchar();
+        cls;
+    }
