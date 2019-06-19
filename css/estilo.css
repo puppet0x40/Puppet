@@ -2,13 +2,26 @@
 /*css Documento*/
 
 header {
-	background-color: #575757;
+	background-color: #21DA09;
 }
 
-.logo {
-	background-color: #DA0BF9;
+#logo {
+	background-color: #098E06;
+}
+
+#menu {
+	background-color: #098E06;
 }
 
 #conteudos {
 	background-color: #BB1515;
 }
+
+footer {
+	background-color: #08540A;
+}
+
+
+/* 
+
+*/ 
